@@ -1,4 +1,4 @@
- <p align="left"><img src="/fig/uu_ml.png" width="550" heigth="95"></p>
+ <p align="left"><img src="/fig/uu_ml.png" width="800" heigth="140"></p>
 
  # Elements of Machine Learning
 
