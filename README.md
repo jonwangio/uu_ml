@@ -21,7 +21,7 @@
 
  You will again start with simple scenarios of linear methods in classification, such as the Support Vector Machine (SVM). Then non-linear scenario will be introduced by adding kernel components on top of the SVM. Combination of linear units leads to advanced neural networks model. You will be able to apply different neural network architecture to geospatial datasets, where convolutional neural networks will be introduced as one of the most widely adopted model architecture in geoscience.
 
- To solve regression problems, you will build your knowledge and techniques by following:
+ To solve [**regression problems**](https://github.com/jonwangio/uu_ml/blob/main/ml_geo_uu.ipynb), you will build your knowledge and techniques by following:
 
  - 0. Linear regression
  - 1. Curve fitting
