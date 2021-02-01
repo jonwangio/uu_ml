@@ -23,19 +23,19 @@
 
  To solve [**regression problems**](https://github.com/jonwangio/uu_ml/blob/main/ml_geo_uu.ipynb), you will build your knowledge and techniques by following:
 
- - 0. Linear regression
- - 1. Curve fitting
- - 2. Linear basis function and features
- - 3. Regularization and Bayesian methods
- - 4. Tree based methods
- - 5. Additive models and Random Forest
+ - 0. Getting started: Linear model fitting in 1-dimension
+ - 1. Polynomial curve fitting and regularization
+ - 2. Model evaluation
+ - 3. Bayesian method
+ - 4. Additive model, tree-based regression and ensemble learning
+ - 5. Regression on real dataset: air pollution mapping
 
  For classification problems, you obtain the following steps:
 
- - 0. Reading and writing files
- - 1. Visualization
- - 2. Challenge 1: working with point datasets
- - 3. Challenge 2: working with raster datasets
+ - 0. Getting started: linear model for classification
+ - 1. The Support Vector Machine
+ - 2. ...
+ - 3. ...
 
  There can be quite a steep learning curve while you walk through the content, so please always keep in mind that it is very important and efficient to get hands on experience while learning. ***DO NOT*** just sit back and read the codes, ***DO*** modify and rewrite, and check the difference.
 
