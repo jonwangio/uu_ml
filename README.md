@@ -23,12 +23,12 @@
 
  To solve [**regression problems**](https://github.com/jonwangio/uu_ml/blob/main/ml_geo_uu.ipynb), you will build your knowledge and techniques by following:
 
- - 0. Getting started: Linear model fitting in 1-dimension
- - 1. Polynomial curve fitting and regularization
- - 2. Model evaluation
- - 3. Bayesian method
- - 4. Additive model, tree-based regression and ensemble learning
- - 5. Regression on real dataset: air pollution mapping
+ - 0. [Getting started: Linear model fitting in 1-dimension](https://github.com/jonwangio/uu_ml/blob/main/0_getting_started.ipynb)
+ - 1. [Polynomial curve fitting and regularization](https://github.com/jonwangio/uu_ml/blob/main/1_polynomial_regularization.ipynb)
+ - 2. [Model evaluation](https://github.com/jonwangio/uu_ml/blob/main/2_model_evaluation.ipynb)
+ - 3. [Bayesian method](https://github.com/jonwangio/uu_ml/blob/main/3_bayes.ipynb)
+ - 4. [Additive model, tree-based regression and ensemble learning](https://github.com/jonwangio/uu_ml/blob/main/4_additive_trees.ipynb)
+ - 5. [Regression on real dataset: air pollution mapping](https://github.com/jonwangio/uu_ml/blob/main/5_regression_airPollution.ipynb)
 
  For classification problems, you obtain the following steps:
 
