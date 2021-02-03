@@ -51,6 +51,7 @@
  ~~~
  Bishop, C.M., 2006. Pattern recognition and machine learning. springer.
  ~~~
+ An elegant sample implementation of this book can be found at: https://github.com/ctgk/PRML
 
  ~~~
  Hastie, T., Tibshirani, R. and Friedman, J., 2009. The elements of statistical learning: data mining, inference, and prediction. Springer Science & Business Media.
