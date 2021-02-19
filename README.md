@@ -23,19 +23,19 @@
 
  To solve [**regression problems**](https://github.com/jonwangio/uu_ml/blob/main/ml_geo_uu.ipynb), you will build your knowledge and techniques by following:
 
- - 0. [Getting started: Linear model fitting in 1-dimension](https://github.com/jonwangio/uu_ml/blob/main/0_getting_started.ipynb)
- - 1. [Polynomial curve fitting and regularization](https://github.com/jonwangio/uu_ml/blob/main/1_polynomial_regularization.ipynb)
- - 2. [Model evaluation](https://github.com/jonwangio/uu_ml/blob/main/2_model_evaluation.ipynb)
- - 3. [Bayesian method](https://github.com/jonwangio/uu_ml/blob/main/3_bayes.ipynb)
- - 4. [Additive model, tree-based regression and ensemble learning](https://github.com/jonwangio/uu_ml/blob/main/4_additive_trees.ipynb)
- - 5. [Regression on real dataset: air pollution mapping](https://github.com/jonwangio/uu_ml/blob/main/5_regression_airPollution.ipynb)
+ - 0. [Getting started: Linear model fitting in 1-dimension](https://github.com/jonwangio/uu_ml/blob/main/REG_0_getting_started.ipynb)
+ - 1. [Polynomial curve fitting and regularization](https://github.com/jonwangio/uu_ml/blob/main/REG_1_polynomial_regularization.ipynb)
+ - 2. [Model evaluation](https://github.com/jonwangio/uu_ml/blob/main/REG_2_model_evaluation.ipynb)
+ - 3. [Bayesian method](https://github.com/jonwangio/uu_ml/blob/main/REG_3_bayes.ipynb)
+ - 4. [Additive model, tree-based regression and ensemble learning](https://github.com/jonwangio/uu_ml/blob/main/REG_4_additive_trees.ipynb)
+ - 5. [Regression on real dataset: air pollution mapping](https://github.com/jonwangio/uu_ml/blob/main/REG_5_regression_airPollution.ipynb)
 
  For classification problems, you obtain the following steps:
 
- - 0. Getting started: linear model for classification
- - 1. The Support Vector Machine
- - 2. ...
- - 3. ...
+ - 0. [Getting started: Unsupervised classifications](https://github.com/jonwangio/uu_ml/blob/main/CLA_0_unsupervised_kmeans_EM_mixtureModels.ipynb)
+ - 1. [Supervised classification: simple linear models](https://github.com/jonwangio/uu_ml/blob/main/CLA_1_supervised_linearDecisionBoundary.ipynb)
+ - 2. [The Support Vector Machine](https://github.com/jonwangio/uu_ml/blob/main/CLA_2_SVM_highDimensionality.ipynb)
+ - 3. [The neural networks]
 
  There can be quite a steep learning curve while you walk through the content, so please always keep in mind that it is very important and efficient to get hands on experience while learning. ***DO NOT*** just sit back and read the codes, ***DO*** modify and rewrite, and check the difference.
 
