@@ -1,6 +1,6 @@
  <p align="left"><img src="/fig/uu_ml.png" width="800" heigth="140"></p>
 
- # Elements of Machine Learning
+ # Elements of Machine Learning in Geosciences
 
  ### A introductory session for machine learning basics. First designed for Utrecht University, The Netherlands.
 
