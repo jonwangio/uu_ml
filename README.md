@@ -33,8 +33,8 @@
  For classification problems, you obtain the following steps:
 
  - 0. [Getting started: Unsupervised classifications](https://github.com/jonwangio/uu_ml/blob/main/CLA_0_unsupervised_kmeans_EM_mixtureModels.ipynb)
- - 1. [Supervised classification: simple linear models](https://github.com/jonwangio/uu_ml/blob/main/CLA_1_supervised_linearDecisionBoundary.ipynb)
- - 2. [The Support Vector Machine](https://github.com/jonwangio/uu_ml/blob/main/CLA_2_SVM_highDimensionality.ipynb)
+ - 1. [Supervised classification: simple linear models](https://github.com/jonwangio/uu_ml/blob/main/CLA_1_supervised_linear_binary_multiclass.ipynb)
+ - 2. [The Support Vector Machine](https://github.com/jonwangio/uu_ml/blob/main/CLA_2_SVM_nonlinear.ipynb)
  - 3. [The neural networks]
 
  There can be quite a steep learning curve while you walk through the content, so please always keep in mind that it is very important and efficient to get hands on experience while learning. ***DO NOT*** just sit back and read the codes, ***DO*** modify and rewrite, and check the difference.
